@@ -1,0 +1,48 @@
+{
+   "provincias":[
+      {
+		"dpa_prov": "01",
+		"dpa_despro": "AZUAY",
+		"total": 99,
+		"rango": [{
+				"descripcion": "Entre 18 y 29 anos",
+				"cantidad": 26
+			},
+			{
+				"descripcion": "Entre 30 y 49 anos",
+				"cantidad": 47
+			},
+			{
+				"descripcion": "Entre 50 y 59 anos",
+				"cantidad": 13
+			},
+			{
+				"descripcion": "Mayores de 65 anos",
+				"cantidad": 13
+			}
+		]
+      },
+      {
+			"dpa_prov": "02",
+			"dpa_despro": "BOLIVAR",
+			"total": 50,
+			"rango": [{
+					"descripcion": "Entre 18 y 29 anos",
+					"cantidad": 4
+				},
+				{
+					"descripcion": "Entre 30 y 49 anos",
+					"cantidad": 23
+				},
+				{
+					"descripcion": "Entre 50 y 59 anos",
+					"cantidad": 17
+				},
+				{
+					"descripcion": "Mayores de 65 anos",
+					"cantidad": 6
+				}
+			]
+      }
+   ]
+}
