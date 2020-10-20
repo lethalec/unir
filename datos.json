@@ -1,0 +1,581 @@
+{
+   "provincias":[
+      {
+		"dpa_prov": "01",
+		"dpa_despro": "AZUAY",
+		"total": 99,
+		"rango": [{
+				"descripcion": "18 - 29",
+				"cantidad": 26
+			},
+			{
+				"descripcion": "30 - 49",
+				"cantidad": 47
+			},
+			{
+				"descripcion": "50 - 59",
+				"cantidad": 13
+			},
+			{
+				"descripcion": "65 y más",
+				"cantidad": 13
+			}
+		]
+      },
+      {
+         "dpa_prov": "02",
+		 "dpa_despro": "BOLIVAR",
+		 "total": 50,
+		 "rango": [{
+					"descripcion": "18 - 29",
+					"cantidad": 4
+				},
+				{
+					"descripcion": "30 - 49",
+					"cantidad": 23
+				},
+				{
+					"descripcion": "50 - 59",
+					"cantidad": 17
+				},
+				{
+					"descripcion": "65 y más",
+					"cantidad": 6
+				}
+          ]
+       },
+       {
+         
+         "dpa_prov": "03",
+         "dpa_despro": "CAÑAR",
+	     "total":69,
+	     "rango" :[{
+				    "descripcion": "15 - 17",
+				    "cantidad": 1
+			      },
+			      {
+				    "descripcion": "18 - 29",
+				    "cantidad": 10
+                  },
+                  {
+                    "descripcion": "30 - 49",
+                    "cantidad": 34
+                  },
+                  {
+                    "descripcion": "50 - 59",
+                    "cantidad": 19
+                  },
+                  {
+                    "descripcion": "65 y más",
+                    "cantidad": 5
+                  }
+                 ]  
+           },
+           {
+         "dpa_prov": "04",
+         "dpa_despro": "CARCHI",
+	     "total":55,
+	     "rango" :[{
+				"descripcion": "18 - 29",
+				"cantidad": 11
+				},
+				{
+			   "descripcion": "30 - 49",
+			   "cantidad": 23
+                },
+                {
+				"descripcion": "50 - 59",
+				"cantidad": 16
+                },
+			    {
+				"descripcion": "65 y más",
+				"cantidad": 5
+			    }
+               ]   
+           },
+           {
+           "dpa_prov": "05",
+           "dpa_despro": "COTOPAXI",
+	       "total":84,
+           "rango" :[{
+				"descripcion": "18 - 29",
+				"cantidad": 18
+                },
+                {
+				"descripcion": "30 - 49",
+				"cantidad": 39
+			    },
+			    {
+				"descripcion": "50 - 59",
+				"cantidad": 19
+			    },
+			    {
+				"descripcion": "65 y más",
+				"cantidad": 8
+			    }
+               ]
+             },
+           {
+            "dpa_prov": "06",
+            "dpa_despro": "CHIMBORAZO",
+            "total":34,
+            "rango" :[{
+				"descripcion": "18 - 29",
+				"cantidad": 6
+			  },
+			  {
+				"descripcion": "30 - 49",
+				"cantidad": 18
+			  },
+			  {
+				"descripcion": "50 - 59",
+				"cantidad": 6
+			  },
+			  {
+				"descripcion": "65 y más",
+				"cantidad": 4
+			  }
+             ]
+       },
+       {
+            "dpa_prov": "07",
+            "dpa_despro": "EL ORO",
+            "total":69,
+            "rango" :[{
+				"descripcion": "15 - 17",
+				"cantidad": 1
+			  },
+			  {
+				"descripcion": "18 - 29",
+				"cantidad": 18
+			  },
+			  {
+				"descripcion": "30 - 49",
+				"cantidad": 32
+			  },
+			  {
+				"descripcion": "50 - 59",
+				"cantidad": 13
+			  },
+			  {
+				"descripcion": "65 y más",
+				"cantidad": 5
+			  }
+             ]
+       },
+       {
+            "dpa_prov": "08",
+            "dpa_despro": "ESMERALDAS",
+            "total":90,
+            "rango" :[{
+				"descripcion": "15 - 17",
+				"cantidad": 1
+			  },
+			  {
+				"descripcion": "18 - 29",
+				"cantidad": 28
+			  },
+			  {
+				"descripcion": "30 - 49",
+				"cantidad": 42
+			  },
+			  {
+				"descripcion": "50 - 59",
+				"cantidad": 17
+			  },
+			  {
+				"descripcion": "65 y más",
+				"cantidad": 2
+			  }
+             ]
+       },
+       {
+            "dpa_prov": "09",
+            "dpa_despro": "GUAYAS",
+            "total":137,
+            "rango" :[{
+				"descripcion": "15 - 17",
+				"cantidad": 1
+			  },
+			  {
+				"descripcion": "18 - 29",
+				"cantidad": 32
+			  },
+			  {
+				"descripcion": "30 - 49",
+				"cantidad": 63
+			  },
+			  {
+				"descripcion": "50 - 59",
+				"cantidad": 32
+			  },
+			  {
+				"descripcion": "65 y más",
+				"cantidad": 9
+			  }
+             ]
+       },
+       {
+            "dpa_prov": 10,
+            "dpa_despro": "IMBABURA",
+            "total":82,
+            "rango" :[{
+				"descripcion": "15 - 17",
+				"cantidad": 1
+			  },
+			  {
+				"descripcion": "18 - 29",
+				"cantidad": 19
+			  },
+			  {
+				"descripcion": "30 - 49",
+				"cantidad": 38
+			  },
+			  {
+				"descripcion": "50 - 59",
+				"cantidad": 18
+			  },
+			  {
+				"descripcion": "65 y más",
+				"cantidad": 6
+			  }
+             ]
+       },
+       {
+            "dpa_prov": 11,
+            "dpa_despro": "LOJA",
+            "total":90,
+            "rango" :[{
+				"descripcion": "18 - 29",
+				"cantidad": 15
+			  },
+			  {
+				"descripcion": "30 - 49",
+				"cantidad": 46
+			  },
+			  {
+				"descripcion": "50 - 59",
+				"cantidad": 22
+			  },
+			  {
+				"descripcion": "65 y más",
+				"cantidad": 7
+			  }
+             ]
+       },
+       {
+            "dpa_prov": 12,
+            "dpa_despro": "LOS RIOS",
+            "total":45,
+            "rango" :[{
+				"descripcion": "15 - 17",
+				"cantidad": 1
+			  },
+			  {
+				"descripcion": "18 - 29",
+				"cantidad": 12
+			  },
+			  {
+				"descripcion": "30 - 49",
+				"cantidad": 24
+			  },
+			  {
+				"descripcion": "50 - 59",
+				"cantidad": 6
+			  },
+			  {
+				"descripcion": "65 y más",
+				"cantidad": 2
+			  }
+             ]
+       },
+       {
+            "dpa_prov": 13,
+            "dpa_despro": "MANABI",
+            "total":39,
+            "rango" :[{
+				"descripcion": "18 - 29",
+				"cantidad": 8
+			  },
+			  {
+				"descripcion": "30 - 49",
+				"cantidad": 22
+			  },
+			  {
+				"descripcion": "50 - 59",
+				"cantidad": 7
+			  },
+			  {
+				"descripcion": "65 y más",
+				"cantidad": 2
+			  }
+             ]   
+       },
+       {
+            "dpa_prov": 14,
+            "dpa_despro": "MORONA SANTIAGO",
+            "total":74,
+            "rango" :[{
+				"descripcion": "18 - 29",
+				"cantidad": 23
+			  },
+			  {
+				"descripcion": "30 - 49",
+				"cantidad": 33
+			  },
+			  {
+				"descripcion": "50 - 59",
+				"cantidad": 14
+			  },
+			  {
+				"descripcion": "65 y más",
+				"cantidad": 4
+			  }
+             ]   
+       },
+       {
+            "dpa_prov": 15,
+            "dpa_despro": "NAPO",
+            "total":64,
+            "rango" :[{
+				"descripcion": "15 - 17",
+				"cantidad": 1
+			  },
+			  {
+				"descripcion": "18 - 29",
+				"cantidad": 11
+			  },
+			  {
+				"descripcion": "30 - 49",
+				"cantidad": 35
+			  },
+			  {
+				"descripcion": "50 - 59",
+				"cantidad": 14
+			  },
+			  {
+				"descripcion": "65 y más",
+				"cantidad": 3
+			  }
+             ]  
+       },
+       {
+            "dpa_prov": 16,
+            "dpa_despro": "PASTAZA",
+            "total":90,
+            "rango" :[{
+				"descripcion": "15 - 17",
+				"cantidad": 2
+			  },
+			  {
+				"descripcion": "18 - 29",
+				"cantidad": 19
+			  },
+			  {
+				"descripcion": "30 - 49",
+				"cantidad": 53
+			  },
+			  {
+				"descripcion": "50 - 59",
+				"cantidad": 14
+			  },
+			  {
+				"descripcion": "65 y más",
+				"cantidad": 2
+			  }
+             ]
+       },
+       {
+            "dpa_prov": 17,
+            "dpa_despro": "PICHINCHA",
+            "total":129,
+            "rango" :[{
+				"descripcion": "18 - 29",
+				"cantidad": 30
+			  },
+			  {
+				"descripcion": "30 - 49",
+				"cantidad": 58
+			  },
+			  {
+				"descripcion": "50 - 59",
+				"cantidad": 28
+			  },
+			  {
+				"descripcion": "65 y más",
+				"cantidad": 13
+			  }
+             ]
+       },
+       {
+            "dpa_prov": 18,
+            "dpa_despro": "TUNGURAHUA",
+            "total":100,
+            "rango" :[{
+				"descripcion": "18 - 29",
+				"cantidad": 18
+			  },
+			  {
+				"descripcion": "30 - 49",
+				"cantidad": 46
+			  },
+			  {
+				"descripcion": "50 - 59",
+				"cantidad": 28
+			  },
+			  {
+				"descripcion": "65 y más",
+				"cantidad": 8
+			  }
+             ]
+       },
+       {
+            "dpa_prov": 19,
+            "dpa_despro": "ZAMORA CHINCHIPE",
+            "total":65,
+            "rango" :[{
+				"descripcion": "15 - 17",
+				"cantidad": 2
+			  },
+			  {
+				"descripcion": "18 - 29",
+				"cantidad": 14
+			  },
+			  {
+				"descripcion": "30 - 49",
+				"cantidad": 30
+			  },
+			  {
+				"descripcion": "50 - 59",
+				"cantidad": 14
+			  },
+			  {
+				"descripcion": "65 y más",
+				"cantidad": 5
+			  }
+             ]
+       },
+       {
+            "dpa_prov": 20,
+            "dpa_despro": "GALAPAGOS",
+            "total":38,
+            "rango" :[{
+				"descripcion": "15 - 17",
+				"cantidad": 1
+			  },
+			  {
+				"descripcion": "18 - 29",
+				"cantidad": 5
+			  },
+			  {
+				"descripcion": "30 - 49",
+				"cantidad": 23
+			  },
+			  {
+				"descripcion": "50 - 59",
+				"cantidad": 8
+			  },
+			  {
+				"descripcion": "65 y más",
+				"cantidad": 1
+			  }
+             ]
+       },
+       {
+            "dpa_prov": 21,
+            "dpa_despro": "SUCUMBIOS",
+            "total":84,
+            "rango" :[{
+				"descripcion": "18 - 29",
+				"cantidad": 23
+			  },
+			  {
+				"descripcion": "30 - 49",
+				"cantidad": 43
+			  },
+			  {
+				"descripcion": "50 - 59",
+				"cantidad": 15
+			  },
+			  {
+				"descripcion": "65 y más",
+				"cantidad": 3
+			  }
+             ]
+       },
+       {
+            "dpa_prov": 22,
+            "dpa_despro": "ORELLANA",
+            "total":58,
+            "rango" :[{
+				"descripcion": "15 - 17",
+				"cantidad": 1
+			  },
+			  {
+				"descripcion": "18 - 29",
+				"cantidad": 14
+			  },
+			  {
+				"descripcion": "30 - 49",
+				"cantidad": 31
+			  },
+			  {
+				"descripcion": "50 - 59",
+				"cantidad": 5
+			  },
+			  {
+				"descripcion": "65 y más",
+				"cantidad": 7
+			  }
+             ]
+       },
+       {
+            "dpa_prov": 23,
+            "dpa_despro": "SANTO DOMINGO DE LOS TSACHILAS",
+            "total":50,
+            "rango" :[{
+				"descripcion": "18 - 29",
+				"cantidad": 16
+			  },
+			  {
+				"descripcion": "30 - 49",
+				"cantidad": 20
+			  },
+			  {
+				"descripcion": "50 - 59",
+				"cantidad": 11
+			  },
+			  {
+				"descripcion": "65 y más",
+				"cantidad": 3
+			  }
+             ]
+       },
+       {
+            "dpa_prov": 24,
+            "dpa_despro": "SANTA ELENA",
+            "total":102,
+            "rango" :[{
+				"descripcion": "15 - 17",
+				"cantidad": 1
+			  },
+			  {
+				"descripcion": "18 - 29",
+				"cantidad": 22
+			  },
+			  {
+				"descripcion": "30 - 49",
+				"cantidad": 61
+			  },
+			  {
+				"descripcion": "50 - 59",
+				"cantidad": 15
+			  },
+			  {
+				"descripcion": "65 y más",
+				"cantidad": 3
+			  }
+             ]
+       }
+   ]
+}
