@@ -1,0 +1,119 @@
+{
+   "provincias":[
+      {
+		"dpa_prov": "01",
+		"dpa_despro": "AZUAY",
+		"total": 99,
+		"rango": [{
+				"descripcion": "Entre 18 y 29 anos",
+				"cantidad": 26
+			},
+			{
+				"descripcion": "Entre 30 y 49 anos",
+				"cantidad": 47
+			},
+			{
+				"descripcion": "Entre 50 y 59 anos",
+				"cantidad": 13
+			},
+			{
+				"descripcion": "Mayores de 65 anos",
+				"cantidad": 13
+			}
+		]
+      },
+      {
+			"dpa_prov": "02",
+			"dpa_despro": "BOLIVAR",
+			"total": 50,
+			"rango": [{
+					"descripcion": "Entre 18 y 29 anos",
+					"cantidad": 4
+				},
+				{
+					"descripcion": "Entre 30 y 49 anos",
+					"cantidad": 23
+				},
+				{
+					"descripcion": "Entre 50 y 59 anos",
+					"cantidad": 17
+				},
+				{
+					"descripcion": "Mayores de 65 anos",
+					"cantidad": 6
+				}
+			]
+      },
+{
+         
+         "dpa_prov": "03",
+         "dpa_despro": "CAÑAR",
+	     "total":69,
+	     "rango" :[{
+				    "descripcion": "Entre 15 y 17 anos",
+				    "cantidad": 1
+			      },
+			      {
+				    "descripcion": "Entre 18 y 29 anos",
+				    "cantidad": 10
+                  },
+                  {
+                    "descripcion": "Entre 30 y 49 anos",
+                    "cantidad": 34
+                  },
+                  {
+                    "descripcion": "Entre 50 y 59 anos",
+                    "cantidad": 19
+                  },
+                  {
+                    "descripcion": "Mayores de 65 anos",
+                    "cantidad": 5
+                  }
+                 ]  
+           },
+           {
+         "dpa_prov": "04",
+         "dpa_despro": "CARCHI",
+	     "total":55,
+	     "rango" :[{
+				"descripcion": "Entre 18 y 29 anos",
+				"cantidad": 11
+				},
+				{
+			   "descripcion": "Entre 30 y 49 anos",
+			   "cantidad": 23
+                },
+                {
+				"descripcion": "Entre 50 y 59 anos",
+				"cantidad": 16
+                },
+			    {
+				"descripcion": "Mayores de 65 anos",
+				"cantidad": 5
+			    }
+               ]   
+           },
+           {
+           "dpa_prov": "05",
+           "dpa_despro": "COTOPAXI",
+	       "total":84,
+           "rango" :[{
+				"descripcion": "Entre 18 y 29 anos",
+				"cantidad": 18
+                },
+                {
+				"descripcion": "Entre 30 y 49 anos",
+				"cantidad": 39
+			    },
+			    {
+				"descripcion": "Entre 50 y 59 anos",
+				"cantidad": 19
+			    },
+			    {
+				"descripcion": "Mayores de 65 anos",
+				"cantidad": 8
+			    }
+               ]
+             }
+   ]
+}
